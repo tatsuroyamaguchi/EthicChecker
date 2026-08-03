@@ -1,0 +1,29 @@
+# Git 管理から除外するファイル・フォルダ
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Streamlit ローカルシークレット（APIキーを誤ってコミットしないよう除外）
+.streamlit/secrets.toml
+
+# 旧版PDFファイル（不要）
+n2373_01.pdf
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
