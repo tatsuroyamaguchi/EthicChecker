@@ -2,10 +2,6 @@
 
 「**人を対象とする生命科学・医学系研究に関する倫理指針**」（令和3年告示第1号、令和5年3月27日一部改正）への適合性を自動診断する Streamlit アプリです。
 
-## 🌐 デモ
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
-
 ---
 
 ## 📋 主な機能
@@ -96,5 +92,4 @@ Streamlit Community Cloud にデプロイする場合は、**Secrets 管理機�
 
 ## 📄 ライセンス
 
-本ソフトウェアは研究・教育目的での使用を想定しています。
-倫理審査の最終判断は必ず担当の倫理審査委員会にご確認ください。
+MIT LICENCE
