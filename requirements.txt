@@ -1,0 +1,9 @@
+# 生命科学・医学系研究 倫理指針適合性チェッカー
+# Streamlit Community Cloud / pip 用 requirements.txt
+
+streamlit>=1.35.0
+python-docx>=1.1.2
+pypdf>=4.0.0
+pandas>=2.0.0
+openai>=1.0.0
+google-genai>=2.0.0
